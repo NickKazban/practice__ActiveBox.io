@@ -10,6 +10,8 @@ https://nickkazban.github.io/practice__ActiveBox.io/
  3. Изучение програмы Prepros
 
 <span style="color:red">some **This is Red Bold.** text</span>
+A blue and bold paragraph.
+{: .blue .bold}
 
 Времья затраченное мною на віполнение 15 часов.
 
