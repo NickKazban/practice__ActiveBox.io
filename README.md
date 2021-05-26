@@ -1,6 +1,6 @@
-##Практика на основе видеокурса на ресурсе youtube канал BrainsCloud
+Практика на основе видеокурса на ресурсе youtube канал BrainsCloud
 
-#_Просмотреть возможно по ссылке_ <br>
+Просмотреть возможно по ссылке <br>
 https://nickkazban.github.io/practice__ActiveBox.io/
 
 Создание страницы сайта
