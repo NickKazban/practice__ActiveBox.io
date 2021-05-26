@@ -2,7 +2,7 @@
 
 просмотреть возможно по ссылке <br>
               | <br>
-              | <br>
+               | <br>
              \ / <br>
               . <br>
 https://nickkazban.github.io/practice__ActiveBox.io/
